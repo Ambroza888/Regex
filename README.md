@@ -1,3 +1,4 @@
+```
 let re;
 // Literal Characters
 re = /hello/;
@@ -61,3 +62,5 @@ function reTest(re, str) {
 }
 
 reTest(re, str);
+
+```
